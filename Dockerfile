@@ -1,4 +1,4 @@
-FROM golang:1.17.6-alpine
+FROM golang:1.21rc3-alpine
 
 WORKDIR /eth2-comply
 
